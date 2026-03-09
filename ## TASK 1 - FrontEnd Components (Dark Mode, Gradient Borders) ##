@@ -1,0 +1,83 @@
+```jsx    // Code here for the dashboard header component using dark mode and gradient borders        END_FILE         ```      
+---        
+USER TASK 1a : Implement Dark Mode with Gradient Borders in Dashboard Header Component (2 points)  
+-- User can implement 'dark-mode' feature by toggling a switch. If the user selects dark mode, then only use tailwindcss classes for UI/UX design principles such as gradient colors and rounded corners to achieve "gradient" effect on header component with Dark Mode enabled    -- 
+USER TASK 1b : Implement Sidebar Component (2 points)  
+-- Create a side bar similar in layout like seen when users are logged out. It should have dark mode compatible features such as gradient colors and rounded corners to achieve "glassmorphism" effect on the component with Dark Mode enabled    --    
+USER TASK 1c : Implement Hero Component (2 points)  
+-- The hero section contains a large call-to-action text which is used across all screens. Use dark mode compatible principles such as gradient colors and rounded corners for achieving "glassmorphism" effect on the component with Dark Mode enabled    --    
+USER TASK 1d : Implement Features Component (2 points)  
+-- This contains a list of features offered by your service, each feature should have appropriate background gradients/images. Use dark mode compatible principles such as gradient colors and rounded corners to achieve "gradient" effect on the component with Dark Mode enabled    --    
+USER TASK 1e : Implement Pricing Component (2 points)  
+-- The pricing section contains a list of prices for different plans, each price should have appropriate background gradients/images. Use dark mode compatible principles such as gradient colors and rounded corners to achieve "gradient" effect on the component with Dark Mode enabled    --    
+USER TASK 1f : Implement Dashboard Component (2 points)  
+-- This is a dashboard that will contain all your application's UI components, layouts etc. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "dashboard" effect on the component with Dark Mode enabled    --    
+USER TASK 1g : Implement Stat Cards Component (2 points)  
+-- These are small statistics cards, they should represent different metrics. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "statistics" effect on the component with Dark Mode enabled    --    
+USER TASK 1h : Implement Header Component (2 points)  
+-- This is a header that appears at all times, it contains your company's logo/name along left side. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "header" effect on the component with Dark Mode enabled    --    
+USER TASK 1i : Implement Sidebar (2 points)  
+-- This should be a full screen aside bar, containing navigation links. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "sidebar" effect on the component with Dark Mode enabled    --     
+USER TASK 1j : Implement Landing Component (2 points)  
+-- The landing page contains a large welcome text, call-to action button etc. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "landing" effect on the component with Dark Mode enabled    -- 
+USER TASK 1k : Implement Login Component (2 points)  
+-- This should be a login form, containing email & password fields. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "login" effect on the component with Dark Mode enabled    --     
+USER TASK 1l : Implement Reset Password Component (2 points)  
+-- This should be a reset form, containing email & password fields. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "reset" effect on the component with Dark Mode enabled    --     
+USER TASK 1m : Implement Signup Component (2 points)  
+-- This should be a sign up form, containing email & password fields. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "signup" effect on the component with Dark Mode enabled    --     
+USER TASK 1n : Implement Profile Component (2 points)  
+-- This should be a user profile, containing information about logged in users. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "profile" effect on the component with Dark Mode enabled    --     
+USER TASK 1o : Implement Dashboard (2 points)  
+-- This is a dashboard that will contain all your application's UI components, layouts etc. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "dashboard" effect on the component with Dark Mode enabled    --     
+USER TASK 1p : Implement Profile Management Component (2 points)  
+-- This should be a form that allows users can update their profile information. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "profile management" effect on the component with Dark Mode enabled    --     
+USER TASK 1q : Implement Notification Component (2 points)  
+-- This should be a notification system, showing recent activity or changes. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "notifications" effect on the component with Dark Mode enabled    --     
+USER TASK 1r : Implement Message Component (2 points)  
+-- This should be a chat interface, allowing users communicate. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "chat" effect on the component with Dark Mode enabled     .    --     
+USER TASK 1s : Implement Invoice Component (2 points)  
+-- This should be a invoicing interface, allowing users pay their bill. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "invoice" effect on the component with Dark Mode enabled    --     
+USER TASK 1t : Implement Purchase History Component (2 points)  
+-- This should be a history of purchases made by users. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "purchases" effect on the component with Dark Mode enabled    --     
+USER TASK 1u : Implement Support Component (2 points)  
+-- This should be a support interface, providing users troubleshooting help. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "support" effect on the component with Dark Mode enabled    --     
+USER TASK 1v : Implement FAQs Component (2 points)  
+-- This should be a frequently asked questions interface, providing users guidance about common issues. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "FAQ" effect on the component with Dark Mode enabled    --     
+USER TASK 1w : Implement Terms & Conditions Component (2 points)  
+-- This should be a legal terms or conditions page, providing users information about your service's usage. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "terms" effect on the component with Dark Mode enabled    --     
+USER TASK 1x : Implement Privacy Policy Component (2 points)  
+-- This should be a privacy policy page, providing users information about your service's data collection. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "privacy" effect on the component with Dark Mode enabled    --     
+USER TASK 1y : Implement About Us Component (2 points)  
+-- This should be an information about your company page, providing users overview of everything you offer. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "about us" effect on the component with Dark Mode enabled    -- 
+USER TASK 1z : Implement Footer Component (2 points)  
+-- This should be a footer, containing contact information & links. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "footer" effect on the component with Dark Mode enabled    --     
+USER TASK 1aa : Implement Notifications Sidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks notifications icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "notification" effect on the component with Dark Mode enabled    --     
+USER TASK 1ab : Implement User Profile Sidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks profile icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "profile" effect on the component with Dark Mode enabled    --     
+USER TASK 1ac : Implement User Settings Sidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks settings icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "settings" effect on the component with Dark Mode enabled    --     
+USER TASK 1ad : Implement User Support Sidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks support icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "support" effect on the component with Dark Mode enabled    --     
+USER TASK 1ae : Implement UserFAQs Sidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks FAQ icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "faq" effect on the component with Dark Mode enabled    --     
+USER TASK 1af : Implement UserTermsSidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks terms icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "terms" effect on the component with Dark Mode enabled    --     
+USER TASK 1ag : Implement UserPrivacyPolicySidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks privacy icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "privacy" effect on the component with Dark Mode enabled    --     
+USER TASK 1ah : Implement UserAboutUsSidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks about us icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "about" effect on the component with Dark Mode enabled    -- 
+USER TASK 1ai : Implement UserInvoiceSidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks invoices icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "invoice" effect on the component with Dark Mode enabled    -- 
+USER TASK 1aj : Implement UserPurchaseHistorySidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks purchase history icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "purchases" effect on the component with Dark Mode enabled    -- 
+USER TASK 1ak : Implement UserSupportSidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks support icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "support" effect on the component with Dark Mode enabled    -- 
+USER TASK 1al : Implement UserNotificationSidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks notifications icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "notifications" effect on the component with Dark Mode enabled    -- 
+USER TASK 1am : Implement UserMessageSidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks chat icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "message" effect on the component with Dark Mode enabled    -- 
+USER TASK 1an : Implement UserInvoiceSidebar Component (2 points)  
+-- This should be a side bar that appears when user clicks invoices icon in header. Use tailwindcss classes for ui/ux design principles such as gradient colors and rounded corners to achieve "invoice" effect on the component with Dark Mode enabled    -- 
+USER TASK

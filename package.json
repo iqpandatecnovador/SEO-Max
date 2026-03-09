@@ -1,0 +1,17 @@
+{
+  "name": "saas-template",
+  "version": "1.0.0",
+  "description": "Base template for a SaaS product",
+  "main": "server/src/index.ts",
+  "scripts": {
+    "start": "node server/src/index.ts",
+    "dev": "ts-node-dev server/src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3",
+    "pg": "^8.10.0",
+    "drizzle-orm": "^0.23.10"
+  }
+}
